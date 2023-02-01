@@ -48,10 +48,10 @@ Pre-shared Key entnehmen Sie den Fritzbox Benutzer Einstellungen (VPN Einstellun
 
 ## IP - Adresse
 
-Schließlich muss der „IKE Config Mode“ für die IP-Adressen-Zuweisung verwendet werden.
+Änderung: Schließlich muss der „IKE Config Mode“ für die IP-Adressen-Zuweisung verwendet werden.
 
 ![9](img/9a.png "9a")
 
-## Das Subnetz bestimmen das NICHT über den VPN geroutet werden soll. Hier das Subnetz des Clients bzw. der Fritzbox
+## Änderung: Das Subnetz bestimmen, das über den VPN geroutet werden soll. Hier das Subnetz der Fritzbox
 
 ![10](img/10.png "10")
