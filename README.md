@@ -48,9 +48,9 @@ Pre-shared Key entnehmen Sie den Fritzbox Benutzer Einstellungen (VPN Einstellun
 
 ## IP - Adresse
 
-Diese wird in der Fritzbox automatisch vergeben. Kann in der Fritzbox unter **Heimnetz -> Heimnetzübersicht -> Netzwerkverbindungen -> IP-Adresse** eingesehen werden!
+Schließlich muss der „IKE Config Mode“ für die IP-Adressen-Zuweisung verwendet werden.
 
-![9](img/9.png "9")
+![9](img/9a.png "9a")
 
 ## Das Subnetz bestimmen das NICHT über den VPN geroutet werden soll. Hier das Subnetz des Clients bzw. der Fritzbox
 
